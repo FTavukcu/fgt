@@ -1,0 +1,133 @@
+{
+  "Zeitraum": "2020-02-05 23:00:00 - 2020-02-06 22:59:59 2020-02-08 07:33",
+  "Objektnamen": "SAP.PSCH",
+  "System": "UC4P",
+  "Mandant": "0090",
+  "Objekte": [{
+    "Objektname": "SAP.PSCH",
+    "Runid": "0015655352",
+    "Startzeit": "2020-02-06 12:00:08",
+    "Endezeit": "2020-02-07 12:00:02",
+    "Laufzeit": "000006",
+    "RC": "0",
+    "Status": "ENDED_OK - Normal beendet.",
+    "Objekte": [{
+      "Objektname": "G_SAP_SONDER_SHP.PWFL.AT.SAP",
+      "Runid": "0015655352",
+      "Startzeit": "2020-02-07 06:50:24",
+      "Endezeit": "2020-02-07 06:52:05",
+      "Laufzeit": "000141",
+      "RC": "0",
+      "Status": "ENDED_OK - Normal beendet.",
+      "Objekte": []
+    }]
+  },{
+    "Objektname": "SAP.PSCH",
+    "Runid": "0015655352",
+    "Startzeit": "2020-02-06 12:00:08",
+    "Endezeit": "2020-02-07 12:00:02",
+    "Laufzeit": "000006",
+    "RC": "0",
+    "Status": "ENDED_OK - Normal beendet.",
+    "Objekte": [{
+      "Objektname": "G_SAP_SONDER_SHP.PWFL.AT.SAP",
+      "Runid": "0015655352",
+      "Startzeit": "2020-02-07 06:50:24",
+      "Endezeit": "2020-02-07 06:52:05",
+      "Laufzeit": "000141",
+      "RC": "0",
+      "Status": "ENDED_OK - Normal beendet.",
+      "Objekte": [{
+        "Objektname": "SAP.PSCH",
+        "Runid": "0015655352",
+        "Startzeit": "2020-02-06 12:00:08",
+        "Endezeit": "2020-02-07 12:00:02",
+        "Laufzeit": "000006",
+        "RC": "0",
+        "Status": "ENDED_INACTIVE - Aufgabe manuell inaktiv gesetzt. ",
+        "Objekte": [{
+          "Objektname": "G_SAP_SONDER_SHP.PWFL.AT.SAP",
+          "Runid": "0015655352",
+          "Startzeit": "2020-02-07 06:50:24",
+          "Endezeit": "2020-02-07 06:52:05",
+          "Laufzeit": "000141",
+          "RC": "0",
+          "Status": "ENDED_OK - Normal beendet.",
+          "Objekte": []
+        }]
+      },{
+        "Objektname": "SAP.PSCH",
+        "Runid": "4325616570",
+        "Startzeit": "2020-02-06 12:00:08",
+        "Endezeit": "2020-02-07 12:00:02",
+        "Laufzeit": "000006",
+        "RC": "0",
+        "Status": "ENDED_OK - Normal beendet.",
+        "Objekte": [{
+          "Objektname": "G_SAP_SONDER_SHP.PWFL.AT.SAP",
+          "Runid": "0015655352",
+          "Startzeit": "2020-02-07 06:50:24",
+          "Endezeit": "2020-02-07 06:52:05",
+          "Laufzeit": "000141",
+          "RC": "0",
+          "Status": "ENDED_OK - Normal beendet.",
+          "Objekte": [{
+            "Objektname": "FGT.PSCH",
+            "Runid": "7457278332",
+            "Startzeit": "2020-02-06 12:00:08",
+            "Endezeit": "2020-02-07 12:00:02",
+            "Laufzeit": "000006",
+            "RC": "0",
+            "Status": "ENDED_INACTIVE - Aufgabe manuell inaktiv gesetzt. ",
+            "Objekte": [{
+              "Objektname": "G_SAP_SONDER_SHP.PWFL.AT.SAP",
+              "Runid": "1234512534",
+              "Startzeit": "2020-02-07 06:50:24",
+              "Endezeit": "2020-02-07 06:52:05",
+              "Laufzeit": "000141",
+              "RC": "0",
+              "Status": "ENDED_OK - Normal beendet.",
+              "Objekte": []
+            }]
+          }]
+        }]
+      },{
+        "Objektname": "SAP.PSCH",
+        "Runid": "0015655352",
+        "Startzeit": "2020-02-06 12:00:08",
+        "Endezeit": "2020-02-07 12:00:02",
+        "Laufzeit": "000006",
+        "RC": "0",
+        "Status": "ENDED_OK - Normal beendet.",
+        "Objekte": [{
+          "Objektname": "G_SAP_SONDER_SHP.PWFL.AT.SAP",
+          "Runid": "0015655452",
+          "Startzeit": "2020-02-07 06:50:24",
+          "Endezeit": "2020-02-07 06:52:05",
+          "Laufzeit": "000141",
+          "RC": "0",
+          "Status": "ENDED_OK - Normal beendet.",
+          "Objekte": []
+        }]
+      }]
+    }]
+  },{
+    "Objektname": "SAP.PSCH",
+    "Runid": "0015655352",
+    "Startzeit": "2020-02-06 12:00:08",
+    "Endezeit": "2020-02-07 12:00:02",
+    "Laufzeit": "000006",
+    "RC": "0",
+    "Status": "ENDED_OK - Normal beendet.",
+    "Objekte": [{
+      "Objektname": "G_SAP_SONDER_SHP.PWFL.AT.SAP",
+      "Runid": "0015655352",
+      "Startzeit": "2020-02-07 06:50:24",
+      "Endezeit": "2020-02-07 06:52:05",
+      "Laufzeit": "000141",
+      "RC": "0",
+      "Status": "ENDED_OK - Normal beendet.",
+      "Objekte": []
+    }]
+  }]
+}
