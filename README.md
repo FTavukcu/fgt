@@ -1,4 +1,4 @@
-# feggit
+# fgt
 
 ## Project setup
 ```
